@@ -24,7 +24,7 @@
             //}
             //Console.ReadLine();
 
-            ProductManagement.SkipTopFiveRecords(productReviewlist);
+            ProductManagement.RetrieveProductIDAndReviewUsingLambdaSyntax(productReviewlist);
             Console.ReadLine();
         }
     }
