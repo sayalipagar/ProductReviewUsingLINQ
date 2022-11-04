@@ -24,7 +24,7 @@
             //}
             //Console.ReadLine();
 
-            ProductManagement.RetrieveRecordsWithGreaterThanThreeRating(productReviewlist);
+            ProductManagement.RetrieveCountOfReviewForEachProductId(productReviewlist);
             Console.ReadLine();
         }
     }
